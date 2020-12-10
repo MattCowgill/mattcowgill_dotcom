@@ -1,0 +1,53 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "Welcome to Matt Cowgill",
+    "description": "Welcome to our new blog, Matt Cowgill. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2020-12-10",
+    "categories": [],
+    "contents": "\n\n\n\n",
+    "preview": {},
+    "last_modified": "2020-12-10T16:14:05+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2020-12-10-how-does-your-income-compare/",
+    "title": "How does your income compare?",
+    "description": "An interactive gadget to compare yourself to other Australians.",
+    "author": [
+      {
+        "name": "Nora Jones",
+        "url": "https://example.com/norajones"
+      }
+    ],
+    "date": "2018-03-23",
+    "categories": [],
+    "contents": "\nHave you ever wondered how your income compares to other Australians? Well use this calculator thing I made to look it up then. It takes your household’s after-tax income and adjusts it for the number of people in your house to give your ‘equivalised disposable household income.’ The calculator uses ABS data from 2015-16, which was released in September 2017.\n\n\n\n\n\nYou can get the ABS data here.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2020-12-10T16:49:30+08:00",
+    "input_file": {}
+  },
+  {
+    "path": "posts/2020-12-10-the-ft-on-brexit-re-graphed/",
+    "title": "The FT on Brexit, re-graphed",
+    "description": "Take a graph and make it better.",
+    "author": [
+      {
+        "name": "Matt Cowgill",
+        "url": {}
+      }
+    ],
+    "date": "2018-02-17",
+    "categories": [],
+    "contents": "\nThe Financial Times is home to some of the best data visualisation in the world today. They have a team of super talented graph wonks churning out all sorts of interesting charts in the kind of minimalist style I like. But occasionally I see FT graphs that could be improved with a few tweaks, like this one on Brexit from Martin Sandbu’s excellent daily newsletter:\n\nThis is a pretty good chart! But I think it could be improved by separating out wages from GDP, and by using dots instead of bars:\n\nSeparating out wages into its own little panel like this means that the legend can stay simple, with only two colours. The FT’s original was good, but I think mine is a little clearer.\n\n\n\n",
+    "preview": {},
+    "last_modified": "2020-12-10T16:38:43+08:00",
+    "input_file": {}
+  }
+]

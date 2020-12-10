@@ -1,0 +1,26 @@
+---
+title: "How does your income compare?"
+description: |
+  An interactive gadget to compare yourself to other Australians.
+author:
+  - name: Nora Jones
+    url: https://example.com/norajones
+date: 03-23-2018
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Have you ever wondered how your income compares to other Australians? Well use this calculator thing I made to look it up then. It takes your household's after-tax income and adjusts it for the number of people in your house to give your 'equivalised disposable household income.' The calculator uses <a href="http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/6523.02015-16?OpenDocument">ABS data from 2015-16</a>, which was released in September 2017.
+
+```{r}
+knitr::include_app('https://mattcowgill.shinyapps.io/income_dist/', height = '1100px')
+```
+
+
+You can <a href="http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/6523.02015-16?OpenDocument">get the ABS data here</a>.
