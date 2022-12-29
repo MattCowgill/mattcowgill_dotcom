@@ -6,14 +6,13 @@ about:
   links:
     - icon: twitter
       text: Twitter
-      href: https://twitter.com
+      href: https://twitter.com/MattCowgill
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
+      href: https://www.linkedin.com/in/matt-cowgill-12990225/
     - icon: github
       text: Github
-      href: https://github.com
-
+      href: https://github.com/MattCowgill
 ---
 
-About this blog
+This is Matt Cowgill's personal blog.
