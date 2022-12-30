@@ -1,5 +1,5 @@
 ---
-title: "mattcowgill_dotcom"
+# title: "Matt Cowgill"
 listing:
   contents: posts
   sort: "date desc"
